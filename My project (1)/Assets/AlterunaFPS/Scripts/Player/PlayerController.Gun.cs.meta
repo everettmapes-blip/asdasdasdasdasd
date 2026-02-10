@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e91b242e8e6f41f08de02c8c79f3977e
+timeCreated: 1687167050
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Scripts/Player/PlayerController.Gun.cs
+  uploadId: 637707

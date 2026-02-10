@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a09de46073e04a5ea3a912b0d098d801
+timeCreated: 1687358188
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Scripts/Player/PlayerController.Networking.cs
+  uploadId: 637707
