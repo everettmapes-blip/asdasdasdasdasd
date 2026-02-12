@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d01ecaa9a570054ea86a6eb8027575f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scenes/ApartmentScene/LightingData.asset
+  uploadId: 540984

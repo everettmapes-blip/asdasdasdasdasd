@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5115491fb48490d48a86e7b79aae4a50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202714
+  packageName: 'MoHide: Prop Hunt creator'
+  packageVersion: 2.6
+  assetPath: Assets/MoHide/Scenes/ShowRoomScene/NavMesh.asset
+  uploadId: 540984
