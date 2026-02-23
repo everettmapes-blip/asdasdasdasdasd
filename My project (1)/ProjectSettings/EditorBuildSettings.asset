@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AlterunaFPS/Scenes/Multiplayer.unity
     guid: d467bb58a331a364da0289e764f6c986
+  - enabled: 1
+    path: Assets/Scenes/Scenes/BlockOut.unity
+    guid: 66a48727b061e944597bbe16224b7da1
+  - enabled: 1
+    path: Assets/AlterunaFPS/Scenes/ApartmentScene.unity
+    guid: 81d3e4f223292a248a0d35da7213aa0b
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
   m_UseUCBPForAssetBundles: 0
