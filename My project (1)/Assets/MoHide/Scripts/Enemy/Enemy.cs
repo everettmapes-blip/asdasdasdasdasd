@@ -48,7 +48,7 @@ public class Enemy : MonoBehaviour
         //If he cannot find the target, then he goes to patrol.
         if (!seeTarget)
         {
-            Transform walkPoint = FindObjectOfType<WalkPoint>().transform;
+            Transform walkPoint = Object.FindFirstObjectByType<WalkPoint>().transform;
             _agent.destination = walkPoint.position;
         }
     }

@@ -8,7 +8,7 @@ public class PropMimicParticlesEffect : MonoBehaviour
 
     private void Start()
     {
-        _hidingCharacter = FindObjectOfType<HidingCharacter>();
+        _hidingCharacter = Object.FindFirstObjectByType<HidingCharacter>();
 
         SetParticlesMesh();
     }
